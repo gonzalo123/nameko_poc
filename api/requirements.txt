@@ -1,0 +1,4 @@
+Flask==1.0.2
+flask-nameko==1.4.0
+nameko==2.11.0
+python-dotenv==0.9.1
